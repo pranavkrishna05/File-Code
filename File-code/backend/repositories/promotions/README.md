@@ -1,1 +1,0 @@
-File-code/backend/repositories/promotions/README.md
